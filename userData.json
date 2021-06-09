@@ -1,0 +1,8 @@
+{
+    "users":{
+        "id":"1",
+        "name":"Jerry Doe",
+        "Company":"JP Morgan",
+        "Role":"senior analyst"
+    }
+}

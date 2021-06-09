@@ -1,0 +1,26 @@
+{
+    "users":[
+        {
+            "id":"1",
+            "type":"signed up",
+            "name":"Jerry Doe",
+            "Company":"JP Morgan",
+            "Role":"senior analyst"
+        },
+        {
+            "id":"2",
+            "type":"signed up",
+            "name":"Sara polly",
+            "Company":"Impact Marketing",
+            "Role":"Social Media Manager"
+        },
+        {
+            "id":"3",
+            "type":"signed up",
+            "name":"Lisa Lings",
+            "Company":"Google",
+            "Role":"Google Cloud software developer"
+        }
+        
+    ]
+}
